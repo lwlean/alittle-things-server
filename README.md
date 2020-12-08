@@ -1,2 +1,2 @@
 # alittle-things-server
-record some things
+record some things by command

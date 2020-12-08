@@ -1,0 +1,23 @@
+{
+  "name": "alittle-things-server",
+  "version": "1.0.0",
+  "description": "record somethings",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwlean/alittle-things-server.git"
+  },
+  "keywords": [
+    "record"
+  ],
+  "author": "lwlean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwlean/alittle-things-server/issues"
+  },
+  "homepage": "https://github.com/lwlean/alittle-things-server#readme"
+}
